@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tahiraziz975
 - 👀 I’m interested in development
-- 🌱 I’m currently learning about how we applications are working.
+- 🌱 I’m currently learning about Java Spring Boot.
 - 💞️ I’m looking to collaborate on a growing projects.
 - 📫 How to reach me : tahiraziz975@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: Cricket , Trading , swimming
+- 😄 Pronouns: Simple Tahir Aziz
+- ⚡ Fun fact: Cricket , Snoker, swimming
 
 <!---
 tahiraziz975/tahiraziz975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
